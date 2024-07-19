@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30677365099",
+    "project_id": "myapp-ff39e",
+    "storage_bucket": "myapp-ff39e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30677365099:android:194bc1890eccb380711c2e",
+        "android_client_info": {
+          "package_name": "com.logsign.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT_F3u6SIvLA8WqQBksDPTilxN8eUFYKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
